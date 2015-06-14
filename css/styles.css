@@ -211,7 +211,7 @@ h5 {
 }
 
 .grey-bg {
-    background: #F7F8FA !important;
+    background: #FFFFFF !important;
 }
 
 
@@ -374,7 +374,7 @@ header .intro-section .buttons {
 .features {
     padding-top: 80px;
     padding-bottom: 30px;
-    background: #ffffff;
+    background: #F7F8FA;
 }
 
 .features .features-left {
